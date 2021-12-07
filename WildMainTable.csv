@@ -1,0 +1,9 @@
+Die,Clear,Woods,River,Swamp,Mountain,Desert,City
+1,Men,Men,Men,Men,Men,Men,Men
+2,Flyer,Flyer,Flyer,Flyer,Flyer,Flyer,Undead
+3,Giant,Giant,Giant,Giant,Giant,Giant,Undead
+4,Lycan,Lycan,Lycan,Lycan,Lycan,Men,Men
+5,Animal,Lycan,Swimmer,Swimmer,Animal,Animal,-
+6,Men,Men,Swimmer,Undead,Giant,Dragon,-
+7,Animal,Animal,Animal,Undead,Dragon,-,-
+8,Dragon,Dragon,Dragon,Dragon,Dragon,-,-
